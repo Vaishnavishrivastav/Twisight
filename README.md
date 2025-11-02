@@ -1,3 +1,4 @@
+*Twisight- Twitter + Insight*
 Twitter Sentiment Analysis 🚀
 📌 Overview
 This project performs sentiment analysis on tweets using Natural Language Processing (NLP) and machine learning techniques. It classifies tweets as positive, negative, or neutral to provide insights into public opinion on specific topics.
